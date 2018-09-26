@@ -1,0 +1,5 @@
+server:
+  port: 8888
+person:
+  my_name: 诸位
+  age: 34
